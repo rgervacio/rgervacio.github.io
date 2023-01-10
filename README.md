@@ -1,7 +1,7 @@
 # rgervacio.github.io
 
 ## About
-[rgervacio.github.io](https://rgervacio.github.io/) is a portfolio website that contains samples of Rachelle Gervacio's technical writing work. It was created using the Airspace theme by Themefisher, and it is hosted on GitHub pages.<br/><br/>
+[rgervacio.github.io](https://rgervacio.github.io/) (or [rgervacio.com](https://rgervacio.com/)) is a portfolio website that contains samples of Rachelle Gervacio's technical writing work. It was created using the Airspace theme by Themefisher, and it is hosted on GitHub pages.<br/><br/>
 
 ## Writing Samples
 Featured writing samples include:
