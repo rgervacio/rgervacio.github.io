@@ -72,17 +72,6 @@ $(document).ready(function () {
 	});
 
 
-	// CountDown JS
-	var countDownEl = $('.count-down');
-	if (countDownEl) {
-		$('.count-down').syotimer({
-			year: 2021,
-			month: 5,
-			day: 9,
-			hour: 20,
-			minute: 30
-		});
-	}
 
 	// Magnific Popup Image
 	$('.portfolio-popup').magnificPopup({
