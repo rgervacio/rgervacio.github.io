@@ -314,7 +314,6 @@ input[type=tel]:focus {
   font-weight: 200;
   letter-spacing: 6px;
   margin-top: 0;
-  text-transform: capitalize;
   margin-bottom: 20px;
 }
 @media (max-width: 992px) {
@@ -2107,7 +2106,7 @@ ul.dropdown-menu li {
 }
 
 .bg-2 {
-  background: url("../images/backgrounds/chemistry-apparatus-banner.jpg");
+  background: url("../images/backgrounds/laboratory-banner.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -2126,6 +2125,12 @@ ul.dropdown-menu li {
 
 .bg-5 {
   background: url("../images/backgrounds/prescription-drugs-banner.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.bg-6 {
+  background: url("../images/backgrounds/microphone-banner.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
