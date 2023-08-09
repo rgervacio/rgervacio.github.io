@@ -5,6 +5,7 @@
 
 ## Writing Samples
 Featured writing samples include:
+* Learning Audacity
 * Using Nuclear Magnetic Resonance (NMR) Spectroscopy
 * How to Plan and Prepare for Air Travel
 * Project Shore Line: Documentation Project
